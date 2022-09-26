@@ -1,0 +1,6 @@
+Saina, 48, 1.53 
+Pranjal, 88, 1.72 
+Vandana, 72, 1.51 
+Biplav, 74, 1.6
+Daddu, 70, 1.56
+Dadi, 54, 1.48
